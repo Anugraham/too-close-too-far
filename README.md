@@ -85,9 +85,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Purat Malvika Santosh: Found idea and implemented on circuit as well as software 
+- Aravind K: Technical contribution 
+- Anugraha K: Video and media contribution 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
