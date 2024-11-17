@@ -1,59 +1,57 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# too close too far 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: not innov8ors
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Purat Malvika Santosh -NSS college of engineering 
+- Member 2: Anugraha K - Nssce
+- Member 3: Aravind K - Nssce
 
 ### Project Description
-[2-3 lines about what your project does]
+An Arduino detects object distance, triggering a Pygame mini-game if out of range. Players dodge obstacles with increasing difficulty, combining sensor data with interactive gameplay.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+To detect object under a specified range!!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The ultrasonic sensor detects the object and once in safe zone, you are good to go. BUT!!! If you're too close or too far from specified zone, then you're in danger zone and you have to play the a desktop game. Completely useless, isn't it?!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Arduino ide
+pygames
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Arduino Uno
+- Ultrasonic Sensor
+- Breadboard
+- USB Cable
+- Jumper Wires
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1.sudo apt install arduino
+2.pip install pygame
+
+
 
 # Run
-[commands]
+1.open -a Arduino
+2.python game.py
+
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
