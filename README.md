@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+ii<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # too close too far 🎯
 
@@ -85,7 +85,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-Purat Malvika Santosh: Found idea and implemented on circuit as well as software 
+-Purat Malvika Santosh: Found idea and implemented on circuit as well as software 
 - Aravind K: Technical contribution 
 - Anugraha K: Video and media contribution 
 
